@@ -27,6 +27,36 @@ This repository contains a collection of projects focusing on various aspects of
 - An image-based AI agent for playing ice hockey, utilizing vision algorithms.
 
 
+## Media Gallery
+
+The `/images/` directory contains a variety of images and videos demonstrating the projects and techniques.
+
+### Images
+
+- ![Picture1](/images/Picture1.png)
+- ![Picture2](/images/Picture2.png)
+- ![Untitled Presentation](/images/Untitled presentation.png)
+- ![Angled Shot](/images/angled_shot.png)
+- ![Box](/images/box.png)
+- ![Controller](/images/controller.png)
+- ![Data](/images/data.png)
+- ![Heat](/images/heat.png)
+- ![Input Image](/images/inputImage.PNG)
+- ![Mask Image](/images/maskImage.PNG)
+- ![Mask Output 1](/images/mask_output1.png)
+- ![Mask Output 2](/images/mask_output2.png)
+- ![Planner](/images/planner.png)
+- ![Start](/images/start.png)
+- ![Visualization](/images/viz.png)
+
+### Videos
+
+- [1.mpeg](/images/1.mpeg)
+- [Output Video](/images/output.mp4)
+- [Video 1](/images/vid1.mp4)
+- [Video 2](/images/vid2.mp4)
+
+
 ## Getting Started
 
 Clone this repository to get started with these projects. Each folder contains individual README files with specific setup instructions and requirements.
