@@ -3,9 +3,11 @@
 This repository contains a collection of projects focusing on various aspects of computer vision, including object classification, detection, and segmentation. Each folder represents a unique approach or application, demonstrating the versatility and depth of computer vision techniques.
 
 ## Projects Overview
+The goal of this project is to implement computer vision methods on supertuxkart game. we used object classification, detection, segmentation, autonomous driving, and autonomous multi agent match in ice hockey game where the opponenets are AI agents.
 
 ### 1. Object Classification Linear Classifier
 - An implementation of a linear classifier for object classification.
+  The following figure shows the classes that have been used.
   ![Visualization](/images/viz.png)
 
 ### 2. Object Classification CNN
@@ -18,12 +20,16 @@ This repository contains a collection of projects focusing on various aspects of
 
 ### 4. Point-based Object Detection and Segmentation
 - Point-based algorithms for object detection and segmentation.
+  This picture shows the results of a deep learning that uses the segmentation results and find the object center from segmentation model that has been developed.
   ![Heat](/images/heat.png)
+  This figure shows the results of the trained object detection model.
   ![Box](/images/box.png)
   
 ### 5. Vision-based Driving CNN
 - A CNN model tailored for vision-based autonomous driving applications.
+  The following figure shows the correct angle of the kart using blue circle, which is basically the best direction that kart has to move toward.
   ![Controller](/images/controller.png)
+  The following figure shows the correct angle using deep learning of the kart using red circle, which is basically the best direction that kart has to move toward based on our prediction mode.
   ![Data](/images/data.png)
 
 ### 6. Image-based Agent Ice Hockey
