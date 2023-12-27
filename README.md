@@ -1,4 +1,4 @@
-# Object Classification, Detection, and Segmentation
+# Object Classification, Detection, and Segmentation in SuperTuxKart Game
 
 This repository contains a collection of projects focusing on various aspects of computer vision, including object classification, detection, and segmentation. Each folder represents a unique approach or application, demonstrating the versatility and depth of computer vision techniques.
 
