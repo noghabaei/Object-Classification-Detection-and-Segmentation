@@ -57,10 +57,6 @@ The following figures and videos shows the resutls of our object detection and s
 
 ![Picture2](/images/Picture2.png)
   
-![Mask Output 1](/images/mask_output1.png)
-  
-![Mask Output 2](/images/mask_output2.png)
-
 ![5](https://github.com/noghabaei/Object-Classification-Detection-and-Segmentation/assets/15921300/29ba3260-66e0-40d2-bddd-b58ad54645d4)
 
 Here you can see a top down view of the match. 
