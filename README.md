@@ -40,7 +40,7 @@ The `/images/` directory contains a variety of images and videos demonstrating t
 
 ### Videos
 
-- [1.mpeg](/images/4.gif)
+- (/images/4.gif)
 - [Output Video](/images/5.gif)
 - [Video 1](/images/6.gif)
 - [Video 2](/images/7.gif)
