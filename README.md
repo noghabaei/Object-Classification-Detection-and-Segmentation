@@ -35,7 +35,7 @@ The `/images/` directory contains a variety of images and videos demonstrating t
 
 - ![Picture1](/images/Picture1.png)
 - ![Picture2](/images/Picture2.png)
-- ![Untitled Presentation](/images/Untitled presentation.jpg)
+- ![Untitled Presentation](/images/Untitled presentation.png)
 - ![Angled Shot](/images/angled_shot.png)
 - ![Box](/images/box.png)
 - ![Controller](/images/controller.png)
