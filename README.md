@@ -21,8 +21,11 @@ The goal of this project is to implement computer vision methods on supertuxkart
 ### 4. Point-based Object Detection and Segmentation
 - Point-based algorithms for object detection and segmentation.
   This picture shows the results of a deep learning that uses the segmentation results and find the object center from segmentation model that has been developed.
+  
   ![Heat](/images/heat.png)
+  
   This figure shows the results of the trained object detection model.
+  
   ![Box](/images/box.png)
   
 ### 5. Vision-based Driving CNN
