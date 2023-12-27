@@ -40,11 +40,10 @@ The `/images/` directory contains a variety of images and videos demonstrating t
 
 ### Videos
 
-[sample 1](/images/4.gif)
-[Output Video](/images/5.gif)
-[Video 1](/images/6.gif)
-[Video 2](/images/7.gif)
-
+![5](https://github.com/noghabaei/Object-Classification-Detection-and-Segmentation/assets/15921300/29ba3260-66e0-40d2-bddd-b58ad54645d4)
+![6](https://github.com/noghabaei/Object-Classification-Detection-and-Segmentation/assets/15921300/acbb939e-9e29-448d-a802-fe9c9424950b)
+![7](https://github.com/noghabaei/Object-Classification-Detection-and-Segmentation/assets/15921300/a31b341d-bee2-4840-9145-9c4a633bd25b)
+![4](https://github.com/noghabaei/Object-Classification-Detection-and-Segmentation/assets/15921300/7e0a3a80-f8cc-46f0-9db6-9c0ba11c1ca8)
 
 ## Getting Started
 
