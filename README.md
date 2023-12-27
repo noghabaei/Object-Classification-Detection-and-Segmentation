@@ -6,7 +6,7 @@ This repository contains a collection of projects focusing on various aspects of
 
 ### 1. Object Classification Linear Classifier
 - An implementation of a linear classifier for object classification.
-
+  ![Visualization](/images/viz.png)
 
 ### 2. Object Classification CNN
 - A Convolutional Neural Network (CNN) approach for object classification.
@@ -18,36 +18,25 @@ This repository contains a collection of projects focusing on various aspects of
 
 ### 4. Point-based Object Detection and Segmentation
 - Point-based algorithms for object detection and segmentation.
-
+  ![Heat](/images/heat.png)
+  ![Box](/images/box.png)
+  
 ### 5. Vision-based Driving CNN
 - A CNN model tailored for vision-based autonomous driving applications.
-
+  ![Controller](/images/controller.png)
+  ![Data](/images/data.png)
 
 ### 6. Image-based Agent Ice Hockey
 - An image-based AI agent for playing ice hockey, utilizing vision algorithms.
-
+  ![Picture2](/images/Picture2.png)
+  ![method](/images/2.png)
+  ![Mask Output 1](/images/mask_output1.png)
+  ![Mask Output 2](/images/mask_output2.png)
 
 ## Media Gallery
 
 The `/images/` directory contains a variety of images and videos demonstrating the projects and techniques.
 
-### Images
-
-- ![Picture1](/images/Picture1.png)
-- ![Picture2](/images/Picture2.png)
-- ![Untitled Presentation](/images/Untitled presentation.png)
-- ![Angled Shot](/images/angled_shot.png)
-- ![Box](/images/box.png)
-- ![Controller](/images/controller.png)
-- ![Data](/images/data.png)
-- ![Heat](/images/heat.png)
-- ![Input Image](/images/inputImage.PNG)
-- ![Mask Image](/images/maskImage.PNG)
-- ![Mask Output 1](/images/mask_output1.png)
-- ![Mask Output 2](/images/mask_output2.png)
-- ![Planner](/images/planner.png)
-- ![Start](/images/start.png)
-- ![Visualization](/images/viz.png)
 
 ### Videos
 
